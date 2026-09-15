@@ -9,9 +9,9 @@ Personal agent skills for Claude Code, OpenCode, and other harnesses.
 ## Install
 
 ```bash
-git clone https://github.com/vikas5914/skills ~/Projects/skills
-ln -s ~/Projects/skills/skills/opencode-fast ~/.claude/skills/opencode-fast   # Claude Code
-ln -s ~/Projects/skills/skills/opencode-fast ~/.agents/skills/opencode-fast   # shared agents dir
+git clone https://github.com/vikas5914/skills ~/Projects/Personal/skills
+ln -s ~/Projects/Personal/skills/skills/opencode-fast ~/.claude/skills/opencode-fast   # Claude Code
+ln -s ~/Projects/Personal/skills/skills/opencode-fast ~/.agents/skills/opencode-fast   # shared agents dir
 ```
 
 Or with the `skills` CLI:
