@@ -9,7 +9,7 @@ Personal agent skills for Claude Code, OpenCode, and other harnesses.
 ## Install
 
 ```bash
-git clone https://github.com/vikas-shopos/skills ~/Projects/skills
+git clone https://github.com/vikas5914/skills ~/Projects/skills
 ln -s ~/Projects/skills/skills/opencode-fast ~/.claude/skills/opencode-fast   # Claude Code
 ln -s ~/Projects/skills/skills/opencode-fast ~/.agents/skills/opencode-fast   # shared agents dir
 ```
@@ -17,7 +17,7 @@ ln -s ~/Projects/skills/skills/opencode-fast ~/.agents/skills/opencode-fast   # 
 Or with the `skills` CLI:
 
 ```bash
-npx skills add vikas-shopos/skills --skill opencode-fast
+npx skills add vikas5914/skills --skill opencode-fast
 ```
 
 ## Requirements for opencode-fast
